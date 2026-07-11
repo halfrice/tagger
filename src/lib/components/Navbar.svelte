@@ -43,6 +43,7 @@
 		padding: 0.5rem;
 		text-decoration: none;
 		font-weight: bold;
+		font-size: 14px;
 		color: var(--color-slate);
 	}
 
