@@ -4,6 +4,7 @@
 	--color-cyan: #00ccff;
 	--navbar-height: 3rem;
 	--z-navbar: 10;
+	--font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
 }
 
 @media (min-width: 1024px) {
@@ -46,6 +47,7 @@ body {
 	margin: 0;
 	min-height: 100vh;
 	line-height: 1.5;
+	font-family: var(--font-sans);
 }
 
 h1,

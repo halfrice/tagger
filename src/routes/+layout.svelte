@@ -1,6 +1,7 @@
 <script lang="ts">
-	import Navbar from '$lib/components/Navbar.svelte';
+	import '@fontsource-variable/inter/wght.css';
 	import '../app.css';
+	import Navbar from '$lib/components/Navbar.svelte';
 
 	let { children } = $props();
 </script>
